@@ -5,7 +5,6 @@ A sleek, responsive GitHub profile finder app that fetches and displays user dat
 ## 🌐 Live Demo
 
 [🔗 Visit Git Detective](https://anuj7th-hokage.github.io/GIT-DETECTIVE-main/)  
-_(Replace the above link with your actual GitHub Pages link if different)_
 
 
 ## 🚀 Features
