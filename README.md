@@ -1,6 +1,28 @@
-# GIT-DETECTIVE
+# Git Detective 🔍
 
-it is a git-detective app
-by using html,css,js,api(using paran API)
+A sleek, responsive GitHub profile finder app that fetches and displays user data from the GitHub API. Built with HTML, CSS, and JavaScript. Includes a light/dark mode toggle and mobile-first design.
 
-<img width="1680" alt="Screenshot 2023-04-28 at 2 19 57 AM" src="https://user-images.githubusercontent.com/84793455/234991380-a1d961cf-25c2-42b8-a506-5e1fa84d260a.png">
+## 🌐 Live Demo
+
+[🔗 Visit Git Detective](https://anuj7th-hokage.github.io/GIT-DETECTIVE-main/)  
+_(Replace the above link with your actual GitHub Pages link if different)_
+
+
+## 🚀 Features
+
+- 🔍 Search for any GitHub username
+- 👤 Displays avatar, name, bio, repos, followers & following
+- 📍 Shows location, company, website, and Twitter (if available)
+- 🌙 Light/Dark mode toggle
+- ❌ Handles user not found error
+- 💻 Responsive for desktop, tablet, and mobile
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3** (with variables and media queries)
+- **JavaScript** (Vanilla JS)
+- **GitHub API**
+
+## 📦 Folder Structure
+
