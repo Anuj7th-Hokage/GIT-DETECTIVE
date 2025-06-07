@@ -24,5 +24,3 @@ _(Replace the above link with your actual GitHub Pages link if different)_
 - **JavaScript** (Vanilla JS)
 - **GitHub API**
 
-## 📦 Folder Structure
-
